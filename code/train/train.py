@@ -126,7 +126,6 @@ def parse_args():
     return args
 
 
-# did modification for pull request
 
 if __name__ == '__main__':
     args = parse_args()
